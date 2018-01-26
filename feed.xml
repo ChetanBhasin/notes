@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chetan Bhasin | Software Engineer — Economics and Functional Programming Enthusiast</title>
+    <description>I am a Software Engineer working in Hamburg, Germany with a deep interest in Functional Programming and Financial Economics. While I&#39;m not spending my time on those, I like writing.</description>
+    <link>http://chetanbhasin.com/notes/notes/</link>
+    <atom:link href="http://chetanbhasin.com/notes/notes/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 26 Jan 2018 16:31:49 +0530</pubDate>
+    <lastBuildDate>Fri, 26 Jan 2018 16:31:49 +0530</lastBuildDate>
+    <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Standing Tall [Poem]</title>
+        <description>&lt;p&gt;Do not frown upon me&lt;br /&gt; For what I do not have.&lt;br /&gt; Do not frown upon me&lt;br /&gt; For I make up for most of that.&lt;/p&gt; &lt;p&gt;My eyes might not shimmer&lt;br /&gt; When I see your pocket full of dimes;&lt;br /&gt; But I promise they’ll shine brighter&lt;br /&gt; When I step outside every time.&lt;/p&gt; &lt;p&gt;I might not seem so happy&lt;br /&gt; When you stepped up and I couldn’t do.&lt;br /&gt; I swear it won’t be so crappy&lt;br /&gt; When someday I’ll make it too.&lt;/p&gt; &lt;p&gt;The world seems full of madness&lt;br /&gt; When your luck climbs and mine crawls.&lt;br /&gt;...</description>
+        <pubDate>Mon, 17 Jul 2017 16:39:18 +0000</pubDate>
+        <link>http://chetanbhasin.com/notes/notes/standing-tall-poem/</link>
+        <guid isPermaLink="true">http://chetanbhasin.com/notes/notes/standing-tall-poem/</guid>
+        
+        <category>progressive</category>
+        
+        <category>poetry</category>
+        
+        
+        <category>poems</category>
+        
+      </item>
+    
+      <item>
+        <title>Facebook&#39;s Emotional Manipulation Experiment And What I Think About It</title>
+        <description>&lt;p&gt;I just finished watching “The Social Network” movie for the third time. Only a couple of minutes after I was done I came across this post on Huffington Post regarding facebook’s experiment which manipulated emotions of several facebook’s users by changing what was being shown to them.&lt;/p&gt; &lt;p&gt;The experiment conducted by facebook continued for one week in 2012 when the original algorithm for what would be displayed to users in their news feed was replaced by one which made certain people see mostly good posts, and others mostly bad posts in their news feed.&lt;/p&gt; &lt;p&gt;What facebook found was that the...</description>
+        <pubDate>Sun, 29 Jun 2014 16:08:24 +0000</pubDate>
+        <link>http://chetanbhasin.com/notes/notes/facebooks-emotional-manipulation-experiment-and-what-i-think-about-it/</link>
+        <guid isPermaLink="true">http://chetanbhasin.com/notes/notes/facebooks-emotional-manipulation-experiment-and-what-i-think-about-it/</guid>
+        
+        <category>notes</category>
+        
+        <category>mental-health</category>
+        
+        
+        <category>notes</category>
+        
+      </item>
+    
+  </channel>
+</rss>
