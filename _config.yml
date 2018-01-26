@@ -1,0 +1,68 @@
+permalink: /:title/
+markdown: kramdown
+highlighter: pygments
+
+paginate: 6
+comments: true
+paginate_path: "/page/:num"
+
+baseurl: "/notes" 
+domain_name: "chetanbhasin.com"
+google_analytics: UA-20172649-2
+
+source: source
+destination: _site
+
+# cover: /assets/images/header-cover.png
+
+# site title, description, meta_description, meta_keywords
+# Details for the RSS feed generator
+name: Chetan Bhasin
+title: Chetan Bhasin | Software Engineer — Economics and Functional Programming Enthusiast
+description: "I am a Software Engineer working in Hamburg, Germany with a deep interest in Functional Programming and Financial Economics. While I'm not spending my time on those, I like writing."
+meta_description: "Chetan Bhasin is a Software Engineer for Scala and Haskell and likes Functional Programming and Financial Economics"
+meta_keywords: "Chetan Bhasin, Chetan, Bhasin, Functional Programming, Haskell, Scala, Economics, Finance"
+url: "http://chetanbhasin.com/notes"
+production_url: http://chetanbhasin.com
+repo: https://github.com/ChetanBhasin
+disqus_shortname: "chetanbhasin"
+rss_path: source/
+author:
+  name: Chetan Bhasin
+  image: /assets/images/author.jpg
+  email: connect@chetanbhasin.com
+  url: http://chetanbhasin.com
+  facebook: http://facebook.com/chetanbhasin7
+  twitter: http://twitter.com/ChetanBhasin
+  instagram: http://instagram.com/chetanbhasin7
+  github: http://github.com/ChetanBhasin
+  linkedin: http://linkedin.com/in/chetanbhasin7
+  bio: "I am a Software Engineer working in Hamburg, Germany with a deep interest in Functional Programming and Financial Economics. While I'm not spending my time on those, I like writing."
+
+# thought
+thought:
+  text: I have no special talent. I am only passionately curious.
+  author: Albert Einstein
+
+# Plugin: jekyll-assets
+assets:
+  dirname: /assets
+  baseurl: /notes/assets/ # change to /assets/
+  sources:
+    - assets/images
+    - assets/fonts
+    - assets/css
+    - assets/js
+  cache: true
+  gzip: [ text/css, application/javascript ]
+
+# Compress HTML
+compress_html:
+  clippings: all
+  comments: all
+  endings: all
+  profile: false
+  ignore:
+    envs: all
+
+exclude: ["gulp", "node_modules", "bower", "bower_components", "config.rb", "src", "Gemfile", "Gemfile.lock", ".rvmrc", ".rbenv-version", "package.json", "gulpfile.js", "README.md", "Rakefile", "changelog.md"]
